@@ -1,0 +1,22 @@
+# Ignorar entorno virtual
+renal_venv/
+.venv/
+env/
+
+# Archivos Python y temporales
+*.pyc
+__pycache__/
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Configuración de editores
+.vscode/
+.DS_Store
+
+# Archivos sensibles
+.env
+*.log
+
+# Archivos de prueba
+registros_prueba_renal.csv
