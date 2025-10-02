@@ -47,7 +47,7 @@ Other roles like Reader are limited to viewing and downloading only.*
 ---
 
 ## 🚀 Getting Started
-
+```
 ### 1. Clone this repo
 bash
 git clone https://github.com/Alberto1460/app-riesgo-renal.git
@@ -63,6 +63,9 @@ pip install -r requirements.txt
 
 ### 4. Run locally
 streamlit run home.py
+```
+
+---
 
 🌍 Deployment
 
@@ -72,6 +75,8 @@ Configured with Caddy + DuckDNS for free SSL/HTTPS.
 
 Data securely stored in Amazon S3 and Supabase.
 
+---
+
 📌 Future Improvements
 
 🧮 Add more ML models for comparison.
@@ -79,6 +84,8 @@ Data securely stored in Amazon S3 and Supabase.
 📲 Improve responsive UI for mobile devices.
 
 📑 Export patient reports in PDF format.
+
+---
 
 👨‍💻 Author
 
