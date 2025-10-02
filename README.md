@@ -67,7 +67,7 @@ streamlit run home.py
 
 ---
 
-🌍 Deployment
+## 🌍 Deployment
 
 Deployed on AWS EC2 (free tier).
 
@@ -77,7 +77,7 @@ Data securely stored in Amazon S3 and Supabase.
 
 ---
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 🧮 Add more ML models for comparison.
 
@@ -87,7 +87,7 @@ Data securely stored in Amazon S3 and Supabase.
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Alberto Josué Abarca López
 
