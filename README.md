@@ -94,3 +94,15 @@ Alberto Josué Abarca López
 🌐 GitHub: Alberto1460
 
 💼 LinkedIn: [www.linkedin.com/in/alberto-josue-abarca-lopez]
+
+---
+
+## 💡 Note on Instance Availability
+To avoid unnecessary AWS charges, the EC2 instance hosting this app is not running continuously.
+
+However, it is fully configured to start at any time.
+Every time the instance is started, it automatically updates its public IP address using DuckDNS and re-enables HTTPS via Caddy, so the app remains accessible at:
+
+🔗 https://renal-app-production.duckdns.org/
+
+📌 This ensures the app is always ready to go live without incurring constant hosting costs.
